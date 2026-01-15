@@ -83,7 +83,7 @@ real_news_df = pd.read_csv('True.csv')
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ```
 Deep Learning: PyTorch, torch-geometric
@@ -224,6 +224,3 @@ Contributions are welcome! Here's how you can help:
 - GitHub: [@Jeneil-Kapadia](https://github.com/JeneilKapadia)
 
 ---
----
-
-**Made with ❤️ for combating misinformation**
